@@ -6,8 +6,7 @@ applilet3
 Once I have this board working I will publish my source code
 
 The board runs at 3.3V.
-The LCD is Chanruida 1.8 inch TFT LCD 128 × 160 color screen 
-ST7735 SPI display LCD module with SD card slot arduino display display lcd
+The LCD is a LCD meant for the RPI boards
 
 The ethernet adapter is a small board called W5500 SPI to LAN ethernet
 network module
