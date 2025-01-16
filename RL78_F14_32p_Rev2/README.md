@@ -1,11 +1,9 @@
-This board can use a RL78 G14 or G24, G24 is a newer device which is pin
-compatible but uses a different program for configuration
+This board uses a RL78 F14 
+The configuration for F14 is only supported by applilet3
+Take note that the software for the on board CAN is not supported by
+applilet3
 
-The G14 uses applilet3 and the G24 uses the smart configurator.
-
-I have not tested this board yet but it should work as it is based on other
-working boards. If I find issues when I receive the boards I will make an
-update to the design
+Once I have this board working I will publish my source code
 
 The board runs at 5V.
 The LCD is Chanruida 1.8 inch TFT LCD 128 × 160 color screen 
