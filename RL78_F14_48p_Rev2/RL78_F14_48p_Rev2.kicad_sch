@@ -9827,16 +9827,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 137.16) (xy 177.8 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "716f50ff-66ca-4eb8-a69e-f47aece4866b")
-	)
-	(wire
-		(pts
 			(xy 383.54 234.95) (xy 386.08 234.95)
 		)
 		(stroke
@@ -9997,7 +9987,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 170.18) (xy 106.68 170.18)
+			(xy 73.66 170.18) (xy 139.7 170.18)
 		)
 		(stroke
 			(width 0)
@@ -10867,7 +10857,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 93.98) (xy 172.72 93.98)
+			(xy 177.8 137.16) (xy 168.91 137.16)
 		)
 		(stroke
 			(width 0)
@@ -10944,16 +10934,6 @@
 			(type default)
 		)
 		(uuid "bd8fd23a-a7ee-413f-9c1e-eaeaf4eeb08f")
-	)
-	(wire
-		(pts
-			(xy 106.68 137.16) (xy 106.68 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c0996a89-eb76-47a7-b995-ec154207304f")
 	)
 	(wire
 		(pts
@@ -11204,6 +11184,16 @@
 			(type default)
 		)
 		(uuid "cfcb95fe-6497-42c3-882a-9f10ff8c8f4a")
+	)
+	(wire
+		(pts
+			(xy 139.7 93.98) (xy 177.8 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0439cd6-f90a-4887-ba54-8c784af98d84")
 	)
 	(wire
 		(pts
@@ -11705,6 +11695,16 @@
 		)
 		(uuid "fe60b33a-a685-4a9c-8eb7-b6ba27df1c0e")
 	)
+	(wire
+		(pts
+			(xy 139.7 170.18) (xy 139.7 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe60b39e-8380-4448-b907-f7303cd35965")
+	)
 	(text "Default LCD pinout is for the WaveShare SpotPear 3.2 inch LCD\nFor the AC-TFT35-V2.1 or Piscreen RST is on pin 22 instead of pin 13\nand LCD_RS is on pin 18 instead of pin 15\nThat LCD doesn't have KEY1,KEY2 and KEY3"
 		(exclude_from_sim no)
 		(at 18.288 208.28 0)
@@ -11750,7 +11750,7 @@
 		(uuid "13a26142-5ea5-4248-a3dc-e5b53c6650f4")
 	)
 	(label "LCD_RS"
-		(at 172.72 93.98 0)
+		(at 168.91 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
