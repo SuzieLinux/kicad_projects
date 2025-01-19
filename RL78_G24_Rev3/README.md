@@ -7,7 +7,7 @@ I have not tested this board yet but it should work as it is based on other
 working boards. If I find issues when I receive the boards I will make an
 update to the design
 
-The board runs at 5V.
+The board runs at 3.3V.
 The LCD is Chanruida 1.8 inch TFT LCD 128 × 160 color screen 
 ST7735 SPI display LCD module with SD card slot arduino display display lcd
 
