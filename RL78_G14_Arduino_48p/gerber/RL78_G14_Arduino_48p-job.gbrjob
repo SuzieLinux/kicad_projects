@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "8.0.6"
     },
-    "CreationDate": "2025-01-18T20:27:35-05:00"
+    "CreationDate": "2025-01-18T20:08:40-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "RL78_G23_Arduino",
-      "GUID": "524c3738-5f47-4323-935f-41726475696e",
+      "Name": "RL78_G14_Arduino_48p",
+      "GUID": "524c3738-5f47-4313-945f-41726475696e",
       "Revision": "rev?"
     },
     "Size": {
@@ -27,29 +27,29 @@
       "PadToPad": 0.0,
       "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.25,
+      "MinLineWidth": 0.2284,
       "TrackToRegion": 0.508,
       "RegionToRegion": 0.508
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "RL78_G23_Arduino-F_Cu.gbr",
+      "Path": "RL78_G14_Arduino_48p-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RL78_G23_Arduino-B_Cu.gbr",
+      "Path": "RL78_G14_Arduino_48p-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RL78_G23_Arduino-F_Silkscreen.gbr",
+      "Path": "RL78_G14_Arduino_48p-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RL78_G23_Arduino-B_Silkscreen.gbr",
+      "Path": "RL78_G14_Arduino_48p-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     }
